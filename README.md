@@ -2,6 +2,7 @@
 Me chamo Guilherme Moraes.
 Estou atualmente estudando TI, italiano e sou de nível avançado em inglês. Me interessi muito pela área de humanas e tecnologia, e planejo um futuro ao redor desses campos.
 👽
+Gosto de aprender coisas novas e sou ótimo trabalhando em grupos de qualquer tipo, de forma versátil. Minhas habilidades incluem escrever, tocar instrumentos, 
 <!--
 **Ringuii984/Ringuii984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
