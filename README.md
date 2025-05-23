@@ -1,11 +1,11 @@
 ## Olá 👋
-Me chamo Guilherme Moraes, sou um estudante e irei me formar em breve.
+Me chamo Guilherme Moraes, sou um estudante do SESI SENAI a caminho da minha formação e futuro.
 Estou atualmente estudando desenvolvimento de sistemas e TI, italiano e sou de nível avançado em inglês. 
 
 - Linguagem Python🐍
-- Versatilidade 
-- Humanas e Tecnologia
-- Trabalho em grupo
+- Versatilidade🔨
+- Humanas e Tecnologia👨‍💻
+- Trabalho em grupo👥
   
 ✉️ Como entrar em contato comigo:
 
