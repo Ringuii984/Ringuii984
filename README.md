@@ -1,9 +1,20 @@
 ## Olá 👋
-Me chamo Guilherme Moraes.
-Estou atualmente estudando TI, italiano e sou de nível avançado em inglês. Me interessi muito pela área de humanas e tecnologia, e planejo um futuro ao redor desses campos.
-👽
-Gosto de aprender coisas novas e sou ótimo trabalhando em grupos de qualquer tipo, de forma versátil. Minhas habilidades incluem escrever, tocar instrumentos, 
-<!--
+Me chamo Guilherme Moraes, sou um estudante e irei me formar em breve.
+Estou atualmente estudando desenvolvimento de sistemas e TI, italiano e sou de nível avançado em inglês. 
+
+- Linguagem Python
+- Versatilidade
+- Humanas e Tecnologia
+- Trabalho em grupo
+- 
+  
+Como entrar em contato comigo:
+
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+   <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+
 **Ringuii984/Ringuii984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
